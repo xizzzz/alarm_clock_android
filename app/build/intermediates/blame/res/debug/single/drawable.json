@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/rect_btn.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/rect_btn.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_volume_up.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_volume_up.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_alarm.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_alarm.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_music_note.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_music_note.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_alarm_on.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_alarm_on.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_forward.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_forward.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_snooze.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_snooze.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_vibration.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_vibration.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_add.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_access_time.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_access_time.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_label_outline.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_label_outline.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/circle_btn.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/circle_btn.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable/ic_today.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable/ic_today.xml"
+    }
+]

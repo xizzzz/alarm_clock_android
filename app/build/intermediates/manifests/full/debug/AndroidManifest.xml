@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.angrydoughnuts.android.alarmclock"
+    android:versionCode="14"
+    android:versionName="2.2" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/alarm_klock"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Material" >
+        <activity
+            android:name="com.angrydoughnuts.android.alarmclock.AlarmClockActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.angrydoughnuts.android.alarmclock.AlarmNotificationService"
+            android:exported="false" />
+
+        <receiver android:name="com.angrydoughnuts.android.alarmclock.AlarmNotificationService$AlarmTriggerReceiver" />
+        <receiver android:name="com.angrydoughnuts.android.alarmclock.SystemMessageReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.angrydoughnuts.android.alarmclock.AlarmClockProvider"
+            android:authorities="com.angrydoughnuts.android.alarmclock.provider"
+            android:exported="false" />
+
+        <activity
+            android:name="com.angrydoughnuts.android.alarmclock.AlarmNotificationActivity"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:taskAffinity="" />
+    </application>
+
+</manifest>

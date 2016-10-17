@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/range_bar.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/range_bar.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/media_picker_item.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/media_picker_item.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/settings_item.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/settings_item.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/notification.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/slider.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/slider.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/alarm_list_item.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/alarm_list_item.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/media_picker.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/media_picker.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/time_picker.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/time_picker.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/layout/alarm_list.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/layout/alarm_list.xml"
+    }
+]

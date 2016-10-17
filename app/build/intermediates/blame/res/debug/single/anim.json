@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/anim/slide_in_left.xml"
+    }
+]

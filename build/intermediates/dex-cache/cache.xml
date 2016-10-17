@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5d68a3c7664777f549ba18bd779004a0be10acbe">
+        <dex dex="/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b0c5d343548d45e46fb984d0ed8372ff88f2436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bcdf9ac92a12273ed5037e7d439c1e9a88521ad2">
+        <dex dex="/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7acfe1da3bbcb50ae11aab5722bf6b70343e18fe/classes.dex" />
+    </item>
+
+</items>

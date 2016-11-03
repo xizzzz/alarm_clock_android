@@ -43,8 +43,7 @@ public class Slider extends FrameLayout {
   }
 
   public Slider(Context c, AttributeSet a, int defStyleAttr, int defStyleRes) {
-    super(c, a, defStyleAttr, defStyleRes);
-
+    super(c, a, defStyleAttr);
     ((LayoutInflater)c.getSystemService(Context.LAYOUT_INFLATER_SERVICE))
       .inflate(R.layout.slider, this, true);
     slide = findViewById(R.id.slider_slide);

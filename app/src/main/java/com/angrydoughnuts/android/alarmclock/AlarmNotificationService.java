@@ -226,9 +226,7 @@ public class AlarmNotificationService extends Service {
       .setContentText(labels.isEmpty() ? getString(R.string.dismiss) : labels)
       .setSmallIcon(R.drawable.ic_alarm_on)
       .setContentIntent(PendingIntent.getActivity(this, 0, notify, 0))
-      .setCategory(Notification.CATEGORY_ALARM)
       .setPriority(Notification.PRIORITY_MAX)
-      .setVisibility(Notification.VISIBILITY_PUBLIC)
       .setOngoing(true)
       .setLights(Color.WHITE, 1000, 1000)
       .setVibrate(settings.vibrate ? new long[] {1000, 1000} : null)
@@ -301,8 +299,7 @@ public class AlarmNotificationService extends Service {
         this, (int)alarmid, new Intent(this, AlarmTriggerReceiver.class)
         .putExtra(ALARM_ID, alarmid), 0);
 
-    ((AlarmManager)getSystemService(Context.ALARM_SERVICE))
-        .setExactAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, tsUTC, schedule);
+    ((AlarmManager)getSystemService(Context.ALARM_SERVICE)).setExact(AlarmManager.RTC_WAKEUP, tsUTC, schedule);
     refreshNotifyBar();
   }
 
@@ -372,8 +369,6 @@ public class AlarmNotificationService extends Service {
         .setContentText(TimeUtil.formatLong(this, next) + " : " +
                         TimeUtil.until(getApplicationContext(), next))
         .setSmallIcon(R.drawable.ic_alarm)
-        .setCategory(Notification.CATEGORY_STATUS)
-        .setVisibility(Notification.VISIBILITY_PUBLIC)
         .setOngoing(true)
         .setContentIntent(
             PendingIntent.getActivity(

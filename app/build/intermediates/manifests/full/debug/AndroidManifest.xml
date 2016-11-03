@@ -5,7 +5,7 @@
     android:versionName="2.2" >
 
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="19"
         android:targetSdkVersion="24" />
 
     <uses-permission android:name="android.permission.WAKE_LOCK" />
@@ -33,7 +33,13 @@
             android:name="com.angrydoughnuts.android.alarmclock.AlarmNotificationService"
             android:exported="false" />
 
-        <receiver android:name="com.angrydoughnuts.android.alarmclock.AlarmNotificationService$AlarmTriggerReceiver" />
+        <receiver
+            android:name="com.angrydoughnuts.android.alarmclock.AlarmNotificationService$AlarmTriggerReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.xi.TRIGGER_ALARM" />
+            </intent-filter>
+        </receiver>
         <receiver android:name="com.angrydoughnuts.android.alarmclock.SystemMessageReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />

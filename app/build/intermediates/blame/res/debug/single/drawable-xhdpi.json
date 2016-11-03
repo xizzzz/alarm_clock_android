@@ -1,6 +1,50 @@
 [
     {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_alarm_on.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_alarm_on.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_volume_up.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_volume_up.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_snooze.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_snooze.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_add.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add.png"
+    },
+    {
         "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/alarm_klock.png",
         "source": "/Users/Xi/Desktop/inf/alarmclock/app/src/main/res/drawable-xhdpi/alarm_klock.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_today.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_alarm.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_alarm.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_music_note.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_music_note.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_access_time.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_access_time.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_forward.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_forward.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_label_outline.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_label_outline.png"
+    },
+    {
+        "merged": "/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_vibration.png",
+        "source": "/Users/Xi/Desktop/inf/alarmclock/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_vibration.png"
     }
 ]

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.angrydoughnuts.android.alarmclock"
-        minSdkVersion 23
+        minSdkVersion 19
         targetSdkVersion 24
     }
 

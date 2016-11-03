@@ -1,7 +1,4 @@
-#Sun Oct 16 16:51:30 PDT 2016
-base.0=/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b0c5d343548d45e46fb984d0ed8372ff88f2436
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7acfe1da3bbcb50ae11aab5722bf6b70343e18fe/classes.dex
-base.1=/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7acfe1da3bbcb50ae11aab5722bf6b70343e18fe
-file.0=/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b0c5d343548d45e46fb984d0ed8372ff88f2436/classes.dex
+#Wed Nov 02 22:16:56 PDT 2016
+base.0=/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Xi/Desktop/inf/alarmclock/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
